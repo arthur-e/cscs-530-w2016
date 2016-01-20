@@ -1,3 +1,7 @@
+# Introduction to Graphs
+
+* Graphs can be considered the aggregate of multiple Bernoulli trials. That is, they could be the result or a series of outcomes from a dynamic process.
+
 ## How Graphs are Stored on a Computer
 
 * Either as an "edge list" or an "adjacency matrix."
