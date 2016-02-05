@@ -1,5 +1,17 @@
 # Midterm
 
+<!--
+
+Ancillary Detroit datasets:
+
+-- Demolitions in Hardest Hit Fund areas (period unknown): https://data.detroitmi.gov/Property-Parcels/Demolitions-in-Hardest-Hit-Fund-Areas/m6d9-58um
+-- Demolitions since May 2014 under Hardest Hit Fund: https://data.detroitmi.gov/Property-Parcels/Hardest-Hit-Funds-Area-Demolition-Activity/vcn9-abmp
+-- CDBG, NSP, etc. Demolotions: https://data.detroitmi.gov/Property-Parcels/CDBG-NSP-and-QoL-Demolition-Activity/p2nn-zqy8
+-- Building permits issued: https://data.detroitmi.gov/Property-Parcels/Building-Permits/xw2a-a7tf
+-- Property sales history: https://data.detroitmi.gov/Property-Parcels/Property-Sales-History/w8m7-eib7
+
+-->
+
 ## Goal
 
 * What we hope to learn from the modeling effort
@@ -29,6 +41,7 @@ Agents:
         -- Number of people
         -- Income level | No. of people
         -- Job security | Income, No. of people
+        -- Lot size (varies in time with house)
         Actions:
         -- Move within neighborhood (no cost)
         -- Move to another neighborhood (cost)
@@ -42,3 +55,11 @@ Model parameters/ configuration?
 ### Model Extensions and Measures of Interest
 
 ### Outline of Approach
+
+#### Space
+
+#### Actors
+
+#### Model Wrapper
+
+<!-- How do we iterate in the model? -->
